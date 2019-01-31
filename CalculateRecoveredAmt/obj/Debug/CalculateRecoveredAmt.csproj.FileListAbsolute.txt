@@ -1,0 +1,9 @@
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\bin\Debug\CalculateRecoveredAmt.dll.config
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\bin\Debug\CalculateRecoveredAmt.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\bin\Debug\CalculateRecoveredAmt.pdb
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\bin\Debug\RightNow.AddIns.AddInViews.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\bin\Debug\RightNow.AddIns.AddInViews.xml
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\obj\Debug\CalculateRecoveredAmt.Properties.Resources.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\obj\Debug\CalculateRecoveredAmt.csproj.GenerateResource.Cache
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\obj\Debug\CalculateRecoveredAmt.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\CalculateRecoveredAmt\CalculateRecoveredAmt\obj\Debug\CalculateRecoveredAmt.pdb
